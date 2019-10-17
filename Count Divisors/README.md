@@ -5,7 +5,3 @@ The first and only line of input contains 3 space separated integers l, r and k.
 
 Output Format
 Print the required answer on a single line.
-
-Constraints
-1 <= l <= <= r <= 1000
-1 <= k <= 1000
