@@ -1,9 +1,17 @@
-Count Divisor
+You have been given 3 integers - l, r and k. Find how many numbers between l and r (both inclusive) are divisible by k. You do not need to print these numbers, you just have to find their count.
 
-Given the starting and ending limits with the given number with which the numbers from starting and ending numbers are divisible is counted.
+Input Format
+The first and only line of input contains 3 space separated integers l, r and k.
 
-starting number : 1
-ending number : 10
-Number : 1
+Output Format
+Print the required answer on a single line.
 
-1 is divisible by all the numbers from 1 to 10. so the output will be 10.
+Constraints
+1 <= l <= <= r <= 1000
+1 <= k <= 1000
+
+  =====================================
+|   Sample Input    |     Sample Output |
+=======================================
+|   1 10 1          |     10            |
+  =====================================
