@@ -9,9 +9,3 @@ Print the required answer on a single line.
 Constraints
 1 <= l <= <= r <= 1000
 1 <= k <= 1000
-
-  =====================================
-|   Sample Input    |     Sample Output |
-=======================================
-|   1 10 1          |     10            |
-  =====================================
