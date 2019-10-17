@@ -1,4 +1,4 @@
-#Count Divisor
+Count Divisor
 
 Given the starting and ending limits with the given number with which the numbers from starting and ending numbers are divisible is counted.
 
