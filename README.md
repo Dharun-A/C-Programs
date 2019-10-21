@@ -1,8 +1,8 @@
 # C-Programs
 
-Basic Programs for students who are at beginner stage in coding are available here.\ 
+Basic Programs for students who are at beginner stage in coding are available here.\
 -> Count Divisors\
--> Factorial of a number\ 
+-> Factorial of a number\
 -> Half Pyramid \
 -> Linear Search\
 -> Measuring Shapes\
@@ -14,7 +14,7 @@ Basic Programs for students who are at beginner stage in coding are available he
 -> Splitting into digits\
 -> Star Pyramid\
 -> Student Grade\
--> Sum and Count of Positive and Negative numbers \
--> Sum of digits \
--> Temperature Conversion\ 
--> Transpose of a Matrix\
+-> Sum and Count of Positive and Negative numbers\
+-> Sum of digits\
+-> Temperature Conversion\
+-> Transpose of a Matrix
