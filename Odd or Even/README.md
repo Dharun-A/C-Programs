@@ -2,8 +2,8 @@
 
 Write a C program to check whether a given number is odd or even.
 
-Sample Input 
+Sample Input\
 2
 
-Sample Output
+Sample Output\
 Even
