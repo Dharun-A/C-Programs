@@ -1,3 +1,5 @@
+# Factorial of a number
+
 Given a number N, print the Factorial of the number N.
 
 Sample Input
