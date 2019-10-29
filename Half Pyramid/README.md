@@ -5,7 +5,7 @@ Given a number N, Print the Half pyramid.
 Sample Input\
 5
 
-Sample Output
+Sample Output\
 1\
 1 2\
 1 2 3\
