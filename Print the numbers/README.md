@@ -15,3 +15,12 @@ Print the numbers in input.
 Constraints:
 
 1 <= N <= 100
+
+Sample Input
+
+5\
+56 30 3 94 58
+
+Sample Output
+
+56 30 3 94 58
